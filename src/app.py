@@ -110,6 +110,42 @@ activities = {
         "schedule": "Mondays, 3:30 PM - 4:30 PM",
         "max_participants": 20,
         "participants": ["lucas@mergington.edu", "sophia@mergington.edu"]
+    },
+    "Tennis Club": {
+        "description": "Practice tennis skills and play friendly matches",
+        "schedule": "Wednesdays and Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": ["harper@mergington.edu", "mason@mergington.edu"]
+    },
+    "Track and Field Team": {
+        "description": "Train for running, jumping, and throwing events",
+        "schedule": "Tuesdays and Thursdays, 5:00 PM - 6:30 PM",
+        "max_participants": 20,
+        "participants": ["ella@mergington.edu", "liam@mergington.edu"]
+    },
+    "Ceramics Club": {
+        "description": "Create pottery and ceramic art pieces",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": ["zara@mergington.edu", "nate@mergington.edu"]
+    },
+    "Dance Company": {
+        "description": "Learn choreography and perform dance routines",
+        "schedule": "Mondays, 5:00 PM - 6:30 PM",
+        "max_participants": 18,
+        "participants": ["gianna@mergington.edu", "mike@mergington.edu"]
+    },
+    "History Society": {
+        "description": "Discuss historical events and host guest lectures",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["oliver@mergington.edu", "emma@mergington.edu"]
+    },
+    "Astronomy Club": {
+        "description": "Explore stars, planets, and astronomy observations",
+        "schedule": "Fridays, 5:00 PM - 6:30 PM",
+        "max_participants": 18,
+        "participants": ["sophia@mergington.edu", "noah@mergington.edu"]
     }
 }
 

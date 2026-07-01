@@ -1,0 +1,26 @@
+name: mergington-high-school-agent
+version: 1
+runtime: python
+entrypoint: src/agent.py
+commands:
+  - name: status
+    description: List all activities and current signup counts
+    inputs: []
+  - name: duplicates
+    description: Identify duplicate signups in activity participant lists
+    inputs: []
+  - name: validate
+    description: Validate whether a signup is allowed for an activity
+    inputs:
+      - name: activity_name
+        type: string
+        required: true
+      - name: email
+        type: string
+        required: true
+  - name: bug
+    description: Describe the current signup bug in the app
+    inputs: []
+  - name: summary
+    description: Provide a human-readable summary of the app state and signups
+    inputs: []
